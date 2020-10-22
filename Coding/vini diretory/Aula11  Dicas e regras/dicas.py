@@ -1,0 +1,1 @@
+#anotar a partir de agora todos os codigos no inicio da aulo, geralmente pratica e teoria cabem no mesmo codigo

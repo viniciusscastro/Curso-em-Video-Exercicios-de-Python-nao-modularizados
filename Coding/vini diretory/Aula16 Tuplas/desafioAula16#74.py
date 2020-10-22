@@ -1,0 +1,10 @@
+from random import randint
+a1 = randint(1, 10)
+a2 = randint(1, 10)
+a3 = randint(1, 10)
+a4 = randint(1, 10)
+a5 = randint(1, 10)
+c = (a1, a2, a3, a4, a5)
+ordenado = sorted(c)
+print(f'foram digitados {ordenado[0]} {ordenado[1]} {ordenado[2]} {ordenado[3]} {ordenado[4]}')
+print(f'O maior valor é {ordenado[0]} \nO menor é {ordenado[4]}')

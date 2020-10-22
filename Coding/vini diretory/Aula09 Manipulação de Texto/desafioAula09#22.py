@@ -1,0 +1,6 @@
+nome=input('informe seu nome completo').strip()
+print('nome em maiusculo',nome.upper())
+print('nome em minusculo',nome.lower())
+dividido=nome.split()
+print('quantidade de letras sem o espaço',((len(nome)-(nome.count(' ')))))
+print('letras no primeiro nome', len(dividido[0]))
