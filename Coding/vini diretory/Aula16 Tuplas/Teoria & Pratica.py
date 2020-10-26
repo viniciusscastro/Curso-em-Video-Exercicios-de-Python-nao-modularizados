@@ -41,7 +41,7 @@ from time import sleep
 
 # outra caracteristica das tuplas é que são imutaveis o que sera explicado em breve
 
-lanche = () #todas as tuplas são iniciadas com a atribuição de () como no exemplo
+lanche = () #todas as tuplas são iniciadas com a atribuição de () como no exemplo ok
 
 #tuplas = () -> listas = [] -> dicionarios = {}
 
